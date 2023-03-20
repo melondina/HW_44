@@ -1,4 +1,4 @@
-package HW_43;
+package HW_44;
 
 public class Human implements CanSwim, CanRun, CanFly{
     @Override
